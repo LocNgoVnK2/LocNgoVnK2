@@ -20,7 +20,7 @@ Hi, I'm Ngo Phuoc Loc!
 🔭 Working on .NET Developer
 🌟 Main languages: C#, JavaScript, JAVA
 🚩 Interested in Full Stack .NET
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>"></a>
+🤔 I’m currently open for: A new <b>job opportunity</b>"></a>
 </pre>
 <hr>
 
