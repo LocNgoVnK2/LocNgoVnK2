@@ -15,7 +15,7 @@ Hi, I'm Ngo Phuoc Loc!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack .NET Developer 
+💻 I am a Full Stack .NET Developer - 2 YEARS EXP 
 📚 I have a Bachelors in Software Engineering from the Vietnam National University HCMC An Giang University at VIET NAM
 🔭 Working on .NET Developer
 🌟 Main languages: C#, JavaScript, JAVA
